@@ -1,7 +1,7 @@
 import io
 import csv
 import haversine as hs
-from math import radians, cos, sin, asin, sqrt
+
 
 
 def distance(pt1, pt2):
