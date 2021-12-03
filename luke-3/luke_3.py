@@ -21,6 +21,7 @@ while slice_size + slice_index <= len(gift_list):
             size_neighborhood = yay + nay
             index_neighborhood = slice_index
         slice_size += 2
+
     slice_size = 2
     slice_index += 1
 
